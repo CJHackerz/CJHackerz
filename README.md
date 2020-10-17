@@ -37,6 +37,3 @@ __SecureLayer7:__ It is pune based cybersecurity startup which provides various 
 ### Media Presence 📰
 
 <https://www.huffingtonpost.in/entry/trace-labs-ctf-india-missing-person-cases_in_5f525849c5b6578026cd2b64>
-
-### Connect with me
-
