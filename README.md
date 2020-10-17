@@ -1,6 +1,6 @@
 ![Banner](./img/35c3-CJhackerz.png)
 
-![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME]) __.__ [Twitter](https://twitter.com/cjhackerz) __.__ [Linkedin](https://www.linkedin.com/in/cjhackerz/) __.__ [Instagram](https://instagram.com/cjhackerz)
+![Profile views](https://gpvc.arturio.dev/CJHackerz) __.__ [Twitter](https://twitter.com/cjhackerz) __.__ [Linkedin](https://www.linkedin.com/in/cjhackerz/) __.__ [Instagram](https://instagram.com/cjhackerz)
 
 ### WhoAMℹ
 
