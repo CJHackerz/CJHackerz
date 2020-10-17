@@ -6,7 +6,7 @@ Cybersecurity guy who loves to playaround hardware and hexadecimals. I have expe
 
 I do security talks and hands on workshops for teaching penetration testing at numerous places. Active in null community for past 3 years [null is India's largest open security community.] My profile <https://null.community/profile/8808-chirag-jariwala>
 
-💀 HackTheBox Profile 💀 
+💀 HackTheBox Profile 💀 <br />
 <img src="http://www.hackthebox.eu/badge/image/3166" alt="Hack The Box">
 
 __Talks:__ 🎤
@@ -15,9 +15,9 @@ __Talks:__ 🎤
 
 __My Certs:__ 🏆
 
-* Offensive Security Certified Professional: (Verify)[https://www.youracclaim.com/users/chirag-jariwala/badges] ✅
-* Judge - Global OSINT Search Party CTF: (Verify)[https://badgr.com/public/assertions/KMC1OCD9QdiSmqqVbVv8_w] ✅
-* OSINT in the 6ix Course: (Verify)[https://badgr.com/public/assertions/uFaCAJnJRfCMnATKUCVgLg] ✅
+* Offensive Security Certified Professional: [verify](https://www.youracclaim.com/users/chirag-jariwala/badges) ✅
+* Judge - Global OSINT Search Party CTF: [verify](https://badgr.com/public/assertions/KMC1OCD9QdiSmqqVbVv8_w) ✅
+* OSINT in the 6ix Course: [verify](https://badgr.com/public/assertions/uFaCAJnJRfCMnATKUCVgLg) ✅
 
 #### Work Experince ⚒
 
