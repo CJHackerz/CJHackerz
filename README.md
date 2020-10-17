@@ -1,3 +1,7 @@
+![Banner](./img/35c3-CJhackerz.png)
+
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME]) __.__ [Twitter](https://twitter.com/cjhackerz) __.__ [Linkedin](https://www.linkedin.com/in/cjhackerz/) __.__ [Instagram](https://instagram.com/cjhackerz)
+
 ### WhoAMℹ
 
 Cybersecurity guy who loves to playaround hardware and hexadecimals. I have experince in IoT Security Research.
@@ -29,3 +33,10 @@ __SecureLayer7:__ It is pune based cybersecurity startup which provides various 
 * Did firmware security assessment and reverse engineering. Extracted firmware over flash memory chips with SOIC-8, used Binwalk and frameworks like FACT for firmware filesystem analysis.
 * I have good understanding of ARM assembly 32-bit and knows how to write basic exploits and shellcode.
 * Wrote vulnerability reports and communicated with clients for IoT security risk mitigations.
+
+### Media Presence 📰
+
+<https://www.huffingtonpost.in/entry/trace-labs-ctf-india-missing-person-cases_in_5f525849c5b6578026cd2b64>
+
+### Connect with me
+
