@@ -61,6 +61,10 @@ __SecureLayer7:__ It is pune based cybersecurity startup which provides various 
 <https://www.huffingtonpost.in/entry/trace-labs-ctf-india-missing-person-cases_in_5f525849c5b6578026cd2b64>
 
 
+### Spotify Playing 🎧
+
+[<img src="https://cjhackerz-github-readme-playing-now.vercel.app/api/spotify" alt="CJHackerz Spotify Playing" width="350" />](https://open.spotify.com/user/ba7h80vpptwjn7ktu2rv4a3mj)
+
 [website]: https://cjhackerz.net
 [twitter]: https://twitter.com/cjhackerz
 [instagram]: https://instagram.com/cjhackerz
